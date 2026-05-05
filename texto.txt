@@ -1,0 +1,8 @@
+Link de la coleccion de Postman: https://dantemy2015-3358809.postman.co/workspace/d2bc2bcd-6943-4843-8731-df00a3fa538c/collection/53957323-4b6193dd-7ce8-436b-b718-55ce6acd868a?action=share&source=
+copy-link&creator=53957323
+
+1)Las estructuras de las URls las vimos en el documento de la API donde explica que tipos de URL hay dependiendo de lo que se busca, por ejemplo, para buscar frutas se puede buscar mediante distintos gustos de llas frutas, entonces buscamos de los pokemon que filtros de búsqueda había y los probamos en Postman.
+
+2)Cada endpoint devuelve un archivo JSON que te da la información que se pide dependiendo de la URL.
+
+3)Cuando ocurre un error aparece el error 404 Not found, que como dice el nombre no se encuentra una respuesta valida para el URL puesto a prueba.
